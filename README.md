@@ -1,10 +1,6 @@
 # mishmash
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A Clojure library of misfit functions.  This project is where miscellaneous functions can fit in.
 
 ## License
 
